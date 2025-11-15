@@ -28,7 +28,7 @@ body {
     margin-top: 50px;
     width: 100%;
     max-width: 1200px;
-    min-height: 1300px;
+    min-height: 1200px;
     /* margin: 50px; */
     display:grid;   
     grid-template-columns: 1fr 2fr;
